@@ -1,9 +1,9 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Carlos Martinez Mayorga 👋
 
 ### 🛠️ Perfil Profesional
 Ingeniero de Software y Administrador de Infraestructura IT enfocado en desarrollo de aplicaciones empresariales, automatización de procesos y optimización de bases de datos.
 
-- 🔭 Actualmente trabajando en: **[Proyecto actual o área de enfoque]**
+- 🔭 Actualmente trabajando en: **BC Refaccionarias como Director de TI**
 - ⚙️ Interesado en: Arquitectura de software, integraciones ERP, APIs y DevOps.
 - 📫 Contáctame en:  [Correo](mailto:carlosmtzmay@gmail.com)
 
