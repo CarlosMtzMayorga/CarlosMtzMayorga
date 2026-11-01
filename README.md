@@ -3,7 +3,6 @@
 ### 🛠️ Perfil Profesional
 Ingeniero de Software y Administrador de Infraestructura IT enfocado en desarrollo de aplicaciones empresariales, automatización de procesos y optimización de bases de datos.
 
-- 🔭 Actualmente trabajando en: **Coordinador de Sistemas y Ciberseguridad de Lanahora en la ciudad de Gomez Palacio, Durango**
 - ⚙️ Interesado en: Arquitectura de software, integraciones ERP, APIs y DevOps.
 - 📫 Contáctame en:  [Correo](mailto:carlosmtzmay@gmail.com)
 
